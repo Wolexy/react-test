@@ -1,10 +1,11 @@
 import QueueDisplay from "./QueueDisplay";
+import Card from "./components/Card"
 
 function App() {
   return (
     <>
- <h1>Learn react with Chaicode.com</h1>
- <p>I am enjoying this.</p>
+      <h1>Learn react with Chaicode.com</h1>
+      <p>I am enjoying this.</p>
     </>
   );
 }
